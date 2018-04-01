@@ -19,7 +19,25 @@ Created a local network & domain with Windows Server 16:
   - Saved credentials test in code. 
   - Need some progress for output. (Mostly OK.)  
   - 1 user Windows7; 1 user Windows8; 1 user Windows10;
-	
+
+
+How to use:
+
+
+
+.\Invoke-SMBScanner.ps1 -username "UserNameHere" -password "PasswordHere"
+
+ComputerName    Username Password
+------------    -------- --------
+SERVER          decoder  1234qqqQ
+[+] SUCCESS: decoder works with 1234qqqQ on VULWIN7-DEVICE4
+VULWIN7-DEVICE4 decoder  1234qqqQ
+[+] SUCCESS: decoder works with 1234qqqQ on VULMACHINE
+VULMACHINE      decoder  1234qqqQ
+[-] FAILURE: decoder did not work with 1234qqqQ on MAINMACHINE
+
+
+  
 Mahmut Can Tuncer
 TOBB Economics & Technology University
 131101071
