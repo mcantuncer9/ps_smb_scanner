@@ -21,6 +21,7 @@ Created a local network & domain with Windows Server 16:
   - 1 user Windows7; 1 user Windows8; 1 user Windows10;
 
 
+
 How to use:
 
 
@@ -43,6 +44,7 @@ VULMACHINE      decoder  1234qqqQ
 [-] FAILURE: decoder did not work with 1234qqqQ on MAINMACHINE
 
 
+This logs also saved to .txt log file named with timestamp.
 
   
 Mahmut Can Tuncer
