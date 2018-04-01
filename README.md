@@ -29,12 +29,19 @@ How to use:
 
 ComputerName    Username Password
 ------------    -------- --------
+
 SERVER          decoder  1234qqqQ
+
 [+] SUCCESS: decoder works with 1234qqqQ on VULWIN7-DEVICE4
+
 VULWIN7-DEVICE4 decoder  1234qqqQ
+
 [+] SUCCESS: decoder works with 1234qqqQ on VULMACHINE
+
 VULMACHINE      decoder  1234qqqQ
+
 [-] FAILURE: decoder did not work with 1234qqqQ on MAINMACHINE
+
 
 
   
