@@ -44,7 +44,11 @@ VULMACHINE      decoder  1234qqqQ
 [-] FAILURE: decoder did not work with 1234qqqQ on MAINMACHINE
 
 
-This logs also saved to .txt log file named with timestamp.
+
+
+--- This logs also saved to .txt log file named with timestamp. ---
+
+
 
   
 Mahmut Can Tuncer
