@@ -1,0 +1,13 @@
+Retrived 4 systems from the domain.
+
+[-] FAILURE: abcd did not work with 12 on SERVER
+
+[+] SUCCESS: abcd works with 12 on VULWIN7-DEVICE4
+@{ComputerName=VULWIN7-DEVICE4; Username=abcd; Password=12}
+
+[-] FAILURE: abcd did not work with 12 on VULMACHINE
+
+[+] SUCCESS: abcd works with 12 on MAINMACHINE
+@{ComputerName=MAINMACHINE; Username=abcd; Password=12}
+
+
